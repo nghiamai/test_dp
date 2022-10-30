@@ -1,2 +1,3 @@
-add client1 lan 1
-add client1 from local
+add client1 remote num 1
+add client1 from local num 1
+add client1 from remmote num 2
