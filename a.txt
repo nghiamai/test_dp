@@ -1,1 +1,2 @@
-add client1 lan 1
+add client1 from remmote num 1
+add client1 from remmote num 2
